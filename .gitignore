@@ -27,6 +27,7 @@ local.properties
 
 # Object files
 *.o
+*.err
 
 # Libraries
 *.a
